@@ -148,7 +148,7 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lah malah ngatain, berani lu:V' ,MessageType.text);
 }
 else if (text == '#owner'){
-conn.sendMessage(id, ' *Owner FADHIL wa.me/6283102650464* ' ,MessageType.text);
+conn.sendMessage(id, ' *Owner Yanzz Official wa.me/6281803522862* ' ,MessageType.text);
 }
 else if (text == '#help'){
 conn.sendMessage(id, ' *Menampilkan Pilihan Menu!!!* ' ,MessageType.text);
@@ -163,7 +163,7 @@ else if (text == '#donate'){
 conn.sendMessage(id, ' *Menampilkan Donasi!!!* ' ,MessageType.text);
 }
 else if (text == '#creator'){
-conn.sendMessage(id, ' *Creator FADHIL wa.me/6283102650464* ' ,MessageType.text);
+conn.sendMessage(id, ' *Creator YANZZ OFFICIAL  wa.me/6281803522862* ' ,MessageType.text);
 }
 else if (text == 'Pagi'){
 conn.sendMessage(id, ' _Pagi juga Kakak... ada yang bisa kami bantu? Ketik *#help/#menu* untuk melihat fitur bot kami_ ' ,MessageType.text);
